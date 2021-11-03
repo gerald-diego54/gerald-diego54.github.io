@@ -3,7 +3,7 @@
     height: 40px;
   }
   .contain {
-    background-image: url('svg/design.gif  ');
+    background-image: url('svg/design.gif');
     background-size: cover; 
     background-repeat:repeat; 
     background-position: center; 
